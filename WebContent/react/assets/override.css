@@ -1,0 +1,40 @@
+/* Force un affichage clair + mise en page centrée */
+:root { color-scheme: light; }
+
+body {
+  margin: 0;
+  background: #f5f5f5;
+  color: #111;
+  font-family: Arial, sans-serif;
+}
+
+/* Centre le contenu */
+#root {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+/* Titre moins énorme */
+h1 {
+  font-size: 2rem !important;
+  line-height: 1.2 !important;
+  margin: 0 0 16px 0 !important;
+}
+
+/* Inputs plus lisibles */
+input, select, textarea {
+  background: #fff !important;
+  color: #111 !important;
+  border: 1px solid #ccc !important;
+}
+
+/* Boutons plus visibles */
+button {
+  background: #1a73e8 !important;
+  color: #fff !important;
+  border: none !important;
+  border-radius: 8px !important;
+  padding: 10px 14px !important;
+}
+button:hover { filter: brightness(0.95); }
