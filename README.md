@@ -62,9 +62,10 @@
 ---
 
 ## Informations du projet
-- **Nom :** NOURANE ABDALLAH  
+- **Nom :** NOURANE ABDALLAH
+- **Nom :** Ghassen Zhani
 - **Groupe / Classe :** TD3 / TP6  
-- **Date :** 22/12/2025  
+- **Date :** 22/12/2025
 
 ---
 
@@ -73,8 +74,8 @@
 
 ![Interface](docs/cap1.png)  
 ![Interface](docs/cap2.png)
-
-#lien du depot
-
+---
+## lien du depot
 -https://github.com/Nourane466/PersonFrontend.git
- 
+-[Regarder ma vidéo](videos/video.mp4)
+
