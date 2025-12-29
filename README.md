@@ -77,5 +77,4 @@
 ---
 ## lien du depot
 -https://github.com/Nourane466/PersonFrontend.git
--[Regarder ma vidéo](videos/video.mp4)
 
